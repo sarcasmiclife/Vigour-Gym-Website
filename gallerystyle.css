@@ -1,0 +1,22 @@
+.logo {
+    display: inline-block;
+    position: fixed;
+    left: 30px;
+}
+.bgpic {
+    background-image: url(bg.jpeg);
+    background-size: cover;
+}
+.header {
+    position: fixed;
+    background: inherit;
+}
+a {
+    text-decoration: none;
+}
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: inherit;
+}
